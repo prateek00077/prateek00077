@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prateek00077" alt="prateek00077" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/prateek077" target="blank"><img src="https://img.shields.io/twitter/follow/prateek077?logo=twitter&style=for-the-badge" alt="prateek077" /></a> </p>
+<p align="left"> <a href="https://twitter.com/prateek__077" target="blank"><img src="https://img.shields.io/twitter/follow/prateek077?logo=twitter&style=for-the-badge" alt="prateek077" /></a> </p>
 
 - 🔭 I’m currently working on [TypingArena](https://github.com/prateek00077/TypingArena)
 
