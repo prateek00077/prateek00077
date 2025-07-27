@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/prateek077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prateek__077" height="30" width="40" /></a>
+<a href="https://twitter.com/prateek__077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prateek__077" height="30" width="40" /></a>
 <a href="https://instagram.com/pandeyprateek07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pandeyprateek07" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/prateek077" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prateek077" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/prateek077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prateek077" height="30" width="40" /></a>
